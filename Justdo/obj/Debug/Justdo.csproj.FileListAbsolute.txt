@@ -1,0 +1,12 @@
+E:\wkj\学习\Justdo\Justdo\bin\Debug\Justdo.exe.config
+E:\wkj\学习\Justdo\Justdo\bin\Debug\Justdo.exe
+E:\wkj\学习\Justdo\Justdo\bin\Debug\Justdo.pdb
+E:\wkj\学习\Justdo\Justdo\obj\Debug\Justdo.csprojResolveAssemblyReference.cache
+E:\wkj\学习\Justdo\Justdo\obj\Debug\Justdo.MainForm.resources
+E:\wkj\学习\Justdo\Justdo\obj\Debug\Justdo.Properties.Resources.resources
+E:\wkj\学习\Justdo\Justdo\obj\Debug\Justdo.csproj.GenerateResource.Cache
+E:\wkj\学习\Justdo\Justdo\obj\Debug\Justdo.exe
+E:\wkj\学习\Justdo\Justdo\obj\Debug\Justdo.pdb
+E:\wkj\学习\Justdo\Justdo\obj\Debug\Justdo.AddForm.resources
+E:\wkj\学习\Justdo\Justdo\bin\Debug\Resources\Data\todo.xml
+E:\wkj\学习\Justdo\Justdo\bin\Debug\Resources\Image\info.png
