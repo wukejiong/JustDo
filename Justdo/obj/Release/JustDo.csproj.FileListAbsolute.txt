@@ -1,0 +1,11 @@
+D:\Jonny\源码\JustDoIt\JustDo\Justdo\bin\Release\Justdo.exe.config
+D:\Jonny\源码\JustDoIt\JustDo\Justdo\bin\Release\Resources\Data\todo.xml
+D:\Jonny\源码\JustDoIt\JustDo\Justdo\bin\Release\Resources\Image\info.png
+D:\Jonny\源码\JustDoIt\JustDo\Justdo\bin\Release\Justdo.exe
+D:\Jonny\源码\JustDoIt\JustDo\Justdo\bin\Release\Justdo.pdb
+D:\Jonny\源码\JustDoIt\JustDo\Justdo\obj\Release\Justdo.AddForm.resources
+D:\Jonny\源码\JustDoIt\JustDo\Justdo\obj\Release\Justdo.MainForm.resources
+D:\Jonny\源码\JustDoIt\JustDo\Justdo\obj\Release\JustDo.Properties.Resources.resources
+D:\Jonny\源码\JustDoIt\JustDo\Justdo\obj\Release\JustDo.csproj.GenerateResource.Cache
+D:\Jonny\源码\JustDoIt\JustDo\Justdo\obj\Release\Justdo.exe
+D:\Jonny\源码\JustDoIt\JustDo\Justdo\obj\Release\Justdo.pdb

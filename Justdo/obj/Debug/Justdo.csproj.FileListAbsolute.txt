@@ -10,3 +10,6 @@ E:\wkj\学习\Justdo\Justdo\obj\Debug\Justdo.pdb
 E:\wkj\学习\Justdo\Justdo\obj\Debug\Justdo.AddForm.resources
 E:\wkj\学习\Justdo\Justdo\bin\Debug\Resources\Data\todo.xml
 E:\wkj\学习\Justdo\Justdo\bin\Debug\Resources\Image\info.png
+D:\Jonny\源码\JustDoIt\JustDo\Justdo\bin\Debug\Justdo.exe.config
+D:\Jonny\源码\JustDoIt\JustDo\Justdo\obj\Debug\Justdo.exe
+D:\Jonny\源码\JustDoIt\JustDo\Justdo\obj\Debug\Justdo.pdb

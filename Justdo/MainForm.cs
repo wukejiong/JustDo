@@ -58,8 +58,8 @@ namespace Justdo
             ////this.todoView.Activation = ItemActivation.Standard;
             //添加表头
             this.todoView.Columns.Add("", 0);
-            this.todoView.Columns.Add("", 280);
-            this.todoView.Columns.Add("", 150);
+            this.todoView.Columns.Add("", 220);
+            this.todoView.Columns.Add("", 100);
 
 
             //==complete listView==================================
@@ -79,8 +79,8 @@ namespace Justdo
             //this.todoView.Activation = ItemActivation.Standard;
             //添加表头
             this.completeView.Columns.Add("", 0);
-            this.completeView.Columns.Add("", 280);
-            this.completeView.Columns.Add("", 150);
+            this.completeView.Columns.Add("", 220);
+            this.completeView.Columns.Add("", 100);
 
         }
 
