@@ -58,7 +58,7 @@ namespace Justdo
             ////this.todoView.Activation = ItemActivation.Standard;
             //添加表头
             this.todoView.Columns.Add("", 0);
-            this.todoView.Columns.Add("", 220);
+            this.todoView.Columns.Add("", 520);
             this.todoView.Columns.Add("", 100);
 
 
@@ -110,7 +110,7 @@ namespace Justdo
             {
                 var item = new ListViewItem(new string[] { "", complete.Content, complete.CompleteTime.Value.ToString(SHORT_TIME_TEMP) });
                 //item.SubItems[2].BackColor = Color.Red;
-                item.ForeColor = Color.FromArgb(0, 192, 0);
+                item.ForeColor = Color.FromArgb(88,88,88);
                 itemList.Add(item);
             }
             this.completeView.Items.Clear();

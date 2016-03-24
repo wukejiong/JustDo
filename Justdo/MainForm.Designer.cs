@@ -45,8 +45,8 @@
             this.btnAdd.BackColor = System.Drawing.Color.White;
             this.btnAdd.Font = new System.Drawing.Font("Stencil", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnAdd.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
-            this.btnAdd.Location = new System.Drawing.Point(358, 58);
-            this.btnAdd.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnAdd.Location = new System.Drawing.Point(666, 60);
+            this.btnAdd.Margin = new System.Windows.Forms.Padding(2);
             this.btnAdd.Name = "btnAdd";
             this.btnAdd.Size = new System.Drawing.Size(30, 26);
             this.btnAdd.TabIndex = 1;
@@ -58,9 +58,9 @@
             // 
             this.todoView.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.todoView.Location = new System.Drawing.Point(9, 34);
-            this.todoView.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.todoView.Margin = new System.Windows.Forms.Padding(2);
             this.todoView.Name = "todoView";
-            this.todoView.Size = new System.Drawing.Size(338, 428);
+            this.todoView.Size = new System.Drawing.Size(637, 469);
             this.todoView.TabIndex = 3;
             this.todoView.UseCompatibleStateImageBehavior = false;
             this.todoView.ColumnClick += new System.Windows.Forms.ColumnClickEventHandler(this.todoView_ColumnClick);
@@ -74,7 +74,7 @@
             this.label1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.label1.Font = new System.Drawing.Font("Monotype Corsiva", 15F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.label1.Location = new System.Drawing.Point(302, 34);
+            this.label1.Location = new System.Drawing.Point(599, 34);
             this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(47, 26);
@@ -83,11 +83,11 @@
             // 
             // completeView
             // 
-            this.completeView.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.completeView.Location = new System.Drawing.Point(404, 36);
-            this.completeView.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.completeView.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Strikeout, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.completeView.Location = new System.Drawing.Point(722, 36);
+            this.completeView.Margin = new System.Windows.Forms.Padding(2);
             this.completeView.Name = "completeView";
-            this.completeView.Size = new System.Drawing.Size(334, 426);
+            this.completeView.Size = new System.Drawing.Size(334, 467);
             this.completeView.TabIndex = 5;
             this.completeView.UseCompatibleStateImageBehavior = false;
             this.completeView.ColumnClick += new System.Windows.Forms.ColumnClickEventHandler(this.completeView_ColumnClick);
@@ -101,7 +101,7 @@
             this.label2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.label2.Font = new System.Drawing.Font("Monotype Corsiva", 15F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.label2.Location = new System.Drawing.Point(690, 36);
+            this.label2.Location = new System.Drawing.Point(1008, 36);
             this.label2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(50, 26);
@@ -112,8 +112,8 @@
             // 
             this.btnComplete.Font = new System.Drawing.Font("宋体", 9F, System.Drawing.FontStyle.Bold);
             this.btnComplete.ForeColor = System.Drawing.SystemColors.WindowFrame;
-            this.btnComplete.Location = new System.Drawing.Point(358, 106);
-            this.btnComplete.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnComplete.Location = new System.Drawing.Point(666, 108);
+            this.btnComplete.Margin = new System.Windows.Forms.Padding(2);
             this.btnComplete.Name = "btnComplete";
             this.btnComplete.Size = new System.Drawing.Size(30, 27);
             this.btnComplete.TabIndex = 7;
@@ -125,8 +125,8 @@
             // 
             this.btnCloseTodo.Font = new System.Drawing.Font("Candara", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnCloseTodo.ForeColor = System.Drawing.SystemColors.WindowFrame;
-            this.btnCloseTodo.Location = new System.Drawing.Point(358, 208);
-            this.btnCloseTodo.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnCloseTodo.Location = new System.Drawing.Point(666, 210);
+            this.btnCloseTodo.Margin = new System.Windows.Forms.Padding(2);
             this.btnCloseTodo.Name = "btnCloseTodo";
             this.btnCloseTodo.Size = new System.Drawing.Size(30, 27);
             this.btnCloseTodo.TabIndex = 8;
@@ -138,8 +138,8 @@
             // 
             this.btnRestore.Font = new System.Drawing.Font("宋体", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnRestore.ForeColor = System.Drawing.SystemColors.WindowFrame;
-            this.btnRestore.Location = new System.Drawing.Point(358, 157);
-            this.btnRestore.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnRestore.Location = new System.Drawing.Point(666, 159);
+            this.btnRestore.Margin = new System.Windows.Forms.Padding(2);
             this.btnRestore.Name = "btnRestore";
             this.btnRestore.Size = new System.Drawing.Size(30, 26);
             this.btnRestore.TabIndex = 9;
@@ -153,8 +153,8 @@
             this.btnInfo.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
             this.btnInfo.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.btnInfo.ForeColor = System.Drawing.SystemColors.WindowFrame;
-            this.btnInfo.Location = new System.Drawing.Point(358, 262);
-            this.btnInfo.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnInfo.Location = new System.Drawing.Point(666, 264);
+            this.btnInfo.Margin = new System.Windows.Forms.Padding(2);
             this.btnInfo.Name = "btnInfo";
             this.btnInfo.Size = new System.Drawing.Size(30, 26);
             this.btnInfo.TabIndex = 11;
@@ -180,7 +180,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(746, 473);
+            this.ClientSize = new System.Drawing.Size(1067, 514);
             this.Controls.Add(this.labelOneWord);
             this.Controls.Add(this.btnInfo);
             this.Controls.Add(this.btnRestore);
@@ -193,7 +193,7 @@
             this.Controls.Add(this.btnAdd);
             this.ForeColor = System.Drawing.SystemColors.WindowText;
             this.KeyPreview = true;
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.MaximizeBox = false;
             this.Name = "MainForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
